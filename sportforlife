@@ -1,0 +1,966 @@
+
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-disabled  html_header_top html_logo_left html_bottom_nav_header html_menu_left html_custom html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_minimal_header html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_3535 av-cookies-no-cookie-consent av-no-preview av-default-lightbox html_text_menu_active av-mobile-menu-switch-default">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" hreflang="en" href="https://sportforlife.ca" />
+<link rel="alternate" hreflang="fr" href="https://sportpourlavie.ca" />
+<link rel="alternate" hreflang="x-default" href="https://sportforlife.ca" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Sport for Life - Developing physical literacy and delivering quality sport</title>
+	<meta name="description" content="Sport for Life educates and informs sector leaders to enable them to better understand and deliver LTAD, quality sport and physical literacy programming." />
+	<link rel="canonical" href="https://sportforlife.ca/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Sport for Life - Developing physical literacy and delivering quality sport" />
+	<meta property="og:description" content="Sport for Life educates and informs sector leaders to enable them to better understand and deliver LTAD, quality sport and physical literacy programming." />
+	<meta property="og:url" content="https://sportforlife.ca/" />
+	<meta property="og:site_name" content="Sport for Life" />
+	<meta property="article:publisher" content="https://www.facebook.com/CanadianSportforLife/" />
+	<meta property="article:modified_time" content="2023-06-26T21:07:16+00:00" />
+	<meta property="og:image" content="https://sportforlife.ca/wp-content/uploads/2016/08/Slide-alpine-canada.jpg" />
+	<meta property="og:image:width" content="1170" />
+	<meta property="og:image:height" content="716" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@sportforlife_" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://sportforlife.ca/","url":"https://sportforlife.ca/","name":"Sport for Life - Developing physical literacy and delivering quality sport","isPartOf":{"@id":"https://sportforlife.ca/#website"},"about":{"@id":"https://sportforlife.ca/#organization"},"primaryImageOfPage":{"@id":"https://sportforlife.ca/#primaryimage"},"image":{"@id":"https://sportforlife.ca/#primaryimage"},"thumbnailUrl":"https://sportforlife.ca/wp-content/uploads/2016/08/Slide-alpine-canada.jpg","datePublished":"2016-08-03T20:18:36+00:00","dateModified":"2023-06-26T21:07:16+00:00","description":"Sport for Life educates and informs sector leaders to enable them to better understand and deliver LTAD, quality sport and physical literacy programming.","breadcrumb":{"@id":"https://sportforlife.ca/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://sportforlife.ca/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://sportforlife.ca/#primaryimage","url":"https://sportforlife.ca/wp-content/uploads/2016/08/Slide-alpine-canada.jpg","contentUrl":"https://sportforlife.ca/wp-content/uploads/2016/08/Slide-alpine-canada.jpg","width":1170,"height":716},{"@type":"BreadcrumbList","@id":"https://sportforlife.ca/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://sportforlife.ca/#website","url":"https://sportforlife.ca/","name":"Sport For Life","description":"Promoting sport &amp; physical literacy in Canada","publisher":{"@id":"https://sportforlife.ca/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://sportforlife.ca/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://sportforlife.ca/#organization","name":"Sport For Life Society","url":"https://sportforlife.ca/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://sportforlife.ca/#/schema/logo/image/","url":"https://sportforlife.ca/wp-content/uploads/2016/08/Sport-for-Life_web_transparent-1.png","contentUrl":"https://sportforlife.ca/wp-content/uploads/2016/08/Sport-for-Life_web_transparent-1.png","width":400,"height":120,"caption":"Sport For Life Society"},"image":{"@id":"https://sportforlife.ca/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/CanadianSportforLife/","https://twitter.com/sportforlife_","https://linkedin.com/company/sportforlifesociety","https://www.youtube.com/user/canadiansportforlife"]}]}</script>
+	<meta name="google-site-verification" content="kOUCVtUBiLjONYSmfbi8zpeVlVttqvGmZVLU2BiSMnY" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Sport for Life &raquo; Feed" href="https://sportforlife.ca/feed/" />
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= 'https://fonts.googleapis.com/css?family=Lato:300,400,700&display=auto';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+
+			</script>
+			<link rel='stylesheet' id='bxslider-css-css' href='https://sportforlife.ca/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/jquery.bxslider.css?ver=6.2.2' type='text/css' media='' />
+<link rel='stylesheet' id='kiwi-logo-carousel-styles-css' href='https://sportforlife.ca/wp-content/plugins/kiwi-logo-carousel/custom-styles.css?ver=6.2.2' type='text/css' media='' />
+<link rel='stylesheet' id='avia-grid-css' href='https://sportforlife.ca/wp-content/themes/enfold/css/grid.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css' href='https://sportforlife.ca/wp-content/themes/enfold/css/base.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css' href='https://sportforlife.ca/wp-content/themes/enfold/css/layout.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-blog-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-postslider-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-comments-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gridrow-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-heading-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hr-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icon-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconbox-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-image-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hotspot-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-portfolio-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullsize-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-social-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-table-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabs-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-toggles-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-video-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://sportforlife.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--metallic-red: #b02b2c;--wp--preset--color--maximum-yellow-red: #edae44;--wp--preset--color--yellow-sun: #eeee22;--wp--preset--color--palm-leaf: #83a846;--wp--preset--color--aero: #7bb0e7;--wp--preset--color--old-lavender: #745f7e;--wp--preset--color--steel-teal: #5f8789;--wp--preset--color--raspberry-pink: #d65799;--wp--preset--color--medium-turquoise: #4ecac2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: clamp(1.75rem, 3vw, 2.25rem);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1130px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-color{color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-color{color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-color{color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-color{color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-color{color: var(--wp--preset--color--aero) !important;}.has-old-lavender-color{color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-color{color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-color{color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-color{color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-background-color{background-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-background-color{background-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-background-color{background-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-background-color{background-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-background-color{background-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-background-color{background-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-background-color{background-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-background-color{background-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-background-color{background-color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-border-color{border-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-border-color{border-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-border-color{border-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-border-color{border-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-border-color{border-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-border-color{border-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-border-color{border-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-border-color{border-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-border-color{border-color: var(--wp--preset--color--medium-turquoise) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpml-blocks-css' href='https://sportforlife.ca/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://sportforlife.ca/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dvteam_styles-css' href='https://sportforlife.ca/wp-content/plugins/dvteam/css/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dvteam_scrollbar_styles-css' href='https://sportforlife.ca/wp-content/plugins/dvteam/css/scrollbar.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dv_owl_style-css' href='https://sportforlife.ca/wp-content/plugins/dvteam/css/owl.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dv_popup_style-css' href='https://sportforlife.ca/wp-content/plugins/dvteam/css/popup.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='go-portfolio-magnific-popup-styles-css' href='https://sportforlife.ca/wp-content/plugins/go_portfolio/assets/plugins/magnific-popup/magnific-popup.css?ver=1.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='go-portfolio-styles-css' href='https://sportforlife.ca/wp-content/plugins/go_portfolio/assets/css/go_portfolio_styles.css?ver=1.6.4' type='text/css' media='all' />
+<style id='go-portfolio-styles-inline-css' type='text/css'>
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+		.gw-gopf-posts { letter-spacing:10px; }
+		.gw-gopf {
+			
+			margin:0 auto;
+		}
+		.gw-gopf-1col .gw-gopf-col-wrap { 
+        	float:left !important;		
+			margin-left:0 !important;
+        	width:100%;		
+		} 
+		.gw-gopf-2cols .gw-gopf-col-wrap,
+		.gw-gopf-3cols .gw-gopf-col-wrap,
+		.gw-gopf-4cols .gw-gopf-col-wrap,
+		.gw-gopf-5cols .gw-gopf-col-wrap,
+		.gw-gopf-6cols .gw-gopf-col-wrap,
+		.gw-gopf-7cols .gw-gopf-col-wrap,
+		.gw-gopf-8cols .gw-gopf-col-wrap,
+		.gw-gopf-9cols .gw-gopf-col-wrap,
+		.gw-gopf-10cols .gw-gopf-col-wrap { width:50% !important; }		
+	}
+
+		@media only screen and (min-width: 480px) and (max-width: 767px) {
+		.gw-gopf-posts { letter-spacing:20px; }
+		.gw-gopf {
+			
+			margin:0 auto;
+		}		
+		.gw-gopf-1col .gw-gopf-col-wrap,
+		.gw-gopf-2cols .gw-gopf-col-wrap,
+		.gw-gopf-3cols .gw-gopf-col-wrap,
+		.gw-gopf-4cols .gw-gopf-col-wrap,
+		.gw-gopf-5cols .gw-gopf-col-wrap,
+		.gw-gopf-6cols .gw-gopf-col-wrap,
+		.gw-gopf-7cols .gw-gopf-col-wrap,
+		.gw-gopf-8cols .gw-gopf-col-wrap,
+		.gw-gopf-9cols .gw-gopf-col-wrap,
+		.gw-gopf-10cols .gw-gopf-col-wrap { 
+        	float:left !important;		
+			margin-left:0 !important;
+        	width:100%;
+		}
+
+		/* RTL */
+		.gw-gopf-rtl.gw-gopf-1col .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-2cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-3cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-4cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-5cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-6cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-7cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-8cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-9cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-10cols .gw-gopf-col-wrap { float:right !important; }
+		
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-1col .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-2cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-3cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-4cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-5cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-6cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-7cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-8cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-9cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-10cols .gw-gopf-col-wrap { float:left !important; }
+		
+	}
+	
+	
+		@media only screen and (max-width: 479px) {
+		.gw-gopf-posts { letter-spacing:30px; }
+		.gw-gopf {
+			max-width:400px;
+			margin:0 auto;
+		}
+		.gw-gopf-1col .gw-gopf-col-wrap,
+		.gw-gopf-2cols .gw-gopf-col-wrap,
+		.gw-gopf-3cols .gw-gopf-col-wrap,
+		.gw-gopf-4cols .gw-gopf-col-wrap,
+		.gw-gopf-5cols .gw-gopf-col-wrap,
+		.gw-gopf-6cols .gw-gopf-col-wrap,
+		.gw-gopf-7cols .gw-gopf-col-wrap,
+		.gw-gopf-8cols .gw-gopf-col-wrap,
+		.gw-gopf-9cols .gw-gopf-col-wrap,
+		.gw-gopf-10cols .gw-gopf-col-wrap {
+        	margin-left:0 !important;
+        	float:left !important;
+        	width:100%;
+         }
+		 
+		/* RTL */
+		.gw-gopf-rtl.gw-gopf-1col .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-2cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-3cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-4cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-5cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-6cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-7cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-8cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-9cols .gw-gopf-col-wrap,
+		.gw-gopf-rtl.gw-gopf-10cols .gw-gopf-col-wrap { float:right !important; }
+		
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-1col .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-2cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-3cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-4cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-5cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-6cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-7cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-8cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-9cols .gw-gopf-col-wrap,
+		.gw-gopf-slider-type.gw-gopf-rtl.gw-gopf-10cols .gw-gopf-col-wrap { float:left !important; }		
+		 
+	}
+</style>
+<link rel='stylesheet' id='wpml-legacy-dropdown-0-css' href='//sportforlife.ca/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-dropdown-click-0-css' href='//sportforlife.ca/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown-click/style.min.css?ver=1' type='text/css' media='all' />
+<style id='wpml-legacy-dropdown-click-0-inline-css' type='text/css'>
+.wpml-ls-statics-shortcode_actions{background-color:#ffffff;}.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#cdcdcd;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+</style>
+<link rel='stylesheet' id='avia-scs-css' href='https://sportforlife.ca/wp-content/themes/enfold/css/shortcodes.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-fold-unfold-css' href='https://sportforlife.ca/wp-content/themes/enfold/css/avia-snippet-fold-unfold.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css' href='https://sportforlife.ca/wp-content/themes/enfold/js/aviapopup/magnific-popup.min.css?ver=5.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-lightbox-css' href='https://sportforlife.ca/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=5.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-widget-css-css' href='https://sportforlife.ca/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=5.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='mediaelement-css' href='https://sportforlife.ca/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://sportforlife.ca/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-dynamic-css' href='https://sportforlife.ca/wp-content/uploads/dynamic_avia/enfold_child.css?ver=6492050812c42' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css' href='https://sportforlife.ca/wp-content/themes/enfold/css/custom.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-style-css' href='https://sportforlife.ca/wp-content/themes/enfold-child/style.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://sportforlife.ca/wp-content/tablepress-combined.min.css?ver=6' type='text/css' media='all' />
+<link rel='stylesheet' id='pojo-a11y-css' href='https://sportforlife.ca/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='gca-column-styles-css' href='https://sportforlife.ca/wp-content/plugins/genesis-columns-advanced/css/gca-column-styles.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://sportforlife.ca/wp-content/plugins/popup-anything-on-click/assets/css/font-awesome.min.css?ver=2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='popupaoc-public-style-css' href='https://sportforlife.ca/wp-content/plugins/popup-anything-on-click/assets/css/popupaoc-public.css?ver=2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-wpml-css' href='https://sportforlife.ca/wp-content/themes/enfold/config-wpml/wpml-mod.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-single-post-3535-css' href='https://sportforlife.ca/wp-content/uploads/dynamic_avia/avia_posts_css/post-3535.css?ver=ver-1687814403' type='text/css' media='all' />
+<!--n2css--><script type='text/javascript' src='https://sportforlife.ca/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='//sportforlife.ca/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.min.js?ver=1' id='wpml-legacy-dropdown-0-js'></script>
+<script type='text/javascript' src='//sportforlife.ca/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown-click/script.min.js?ver=1' id='wpml-legacy-dropdown-click-0-js'></script>
+<script type='text/javascript' id='wpml-xdomain-data-js-extra'>
+/* <![CDATA[ */
+var wpml_xdomain_data = {"css_selector":"wpml-ls-item","ajax_url":"https:\/\/sportforlife.ca\/wp-admin\/admin-ajax.php","current_lang":"en","_nonce":"eea7452384"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/sitepress-multilingual-cms/res/js/xdomain-data.js?ver=4.6.3' id='wpml-xdomain-data-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/uploads/dynamic_avia/avia-head-scripts-7c820cda6b1a2af40fc6670fc05bf9ca---64920510ad733.js' id='avia-head-scripts-js'></script>
+<link rel="https://api.w.org/" href="https://sportforlife.ca/wp-json/" /><link rel="alternate" type="application/json" href="https://sportforlife.ca/wp-json/wp/v2/pages/3535" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sportforlife.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sportforlife.ca/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://sportforlife.ca/' />
+<link rel="alternate" type="application/json+oembed" href="https://sportforlife.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsportforlife.ca%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sportforlife.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsportforlife.ca%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.6.3 stt:1,4;" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W7TVPHW');</script>
+<!-- End Google Tag Manager -->
+<style type="text/css">html,body {margin:0px !important;} .dv-panel h1,.dv-panel h2,.dv-panel h3,.dv-panel h4,.dv-panel h5,.dv-panel h6,.teamlist-popup h1,.teamlist-popup h2,.teamlist-popup h3,.teamlist-popup h4,.teamlist-popup h5,.teamlist-popup h6 {margin: 0px 0px 20px 0px;}.dv-panel h1,.teamlist-popup h1 {font-size: 34px;}.dv-panel h2,.teamlist-popup h2 {font-size: 28px;}.dv-panel h3,.dvcv-title,.teamlist-popup h3 {font-size: 24px;}.dv-panel h4,.teamlist-popup h4 {font-size: 20px;}.dv-panel h5,.teamlist-popup h5 {font-size: 18px;}.dv-panel h6,.dvcv-subtitle,.teamlist-popup h6 {font-size: 16px;} .dvteam-blockquote p {font-size: 28px !important;}.dvteam-blockquote:before,.dvteam-blockquote:after {font-size: 6em;color:#5a5b5d;}#dv-overlay {background-color: #212121;opacity: 0;}.dv-panel,.teamlist-popup {width: 640px;background-color: #ffffff;}.dv-with-socialbar {box-shadow: inset 40px 0 0 0 #212121;}.dv-panel,.dv-panel p, .dvcv-subtitle, .teamlist-popup, .teamlist-popup p{color:#5a5b5d;}.dv-panel,.dv-panel p, .dv-panel input.wpcf7-form-control.wpcf7-submit,.teamlist-popup,.teamlist-popup p,.teamlist-popup input.wpcf7-form-control.wpcf7-submit{font-size: 14px;}.dv-panel h1,.dv-panel h2,.dv-panel h3,.dv-panel h4,.dv-panel h5,.dv-panel h6, .dvcv-title, .dvteam-blockquote p,.teamlist-popup h1,.teamlist-popup h2,.teamlist-popup h3,.teamlist-popup h4,.teamlist-popup h5,.teamlist-popup h6{color:#ffffff;}.dv-panel hr,.teamlist-popup hr {margin: 30px -30px !important;background-color: #5a5b5d;height: 1px !important;}.dv-panel-left {background-color: #212121;}.dv-panel-inner {padding: 30px;background-color: #ffffff;}.dv-panel-title {font-size: 28px;background-color: #cc2027;color:#ffffff;padding: 15px 60px 15px 30px;}.close-dv-panel-bt {background-image: url('https://sportforlife.ca/wp-content/plugins/dvteam/css/icons/close.png');background-repeat: no-repeat;background-position: center center;} .dv-panel-info {font-size: 18px;background-color: #414141;color:#ffffff;padding: 15px 30px;}.dvteamgrid figure a,.dvteam-thumbnails li a {background-color: #212121;}.dvteam-thumbnails li a {background-image: url('https://sportforlife.ca/wp-content/plugins/dvteam/css/icons/s-info.png');background-repeat: no-repeat;background-position: center center;}.dvteamgrid figure:hover img,.dvteam-thumbnails li a img:hover{opacity: 0.7;} .dv-member-zoom {background-image: url('https://sportforlife.ca/wp-content/plugins/dvteam/css/icons/info.png');background-repeat: no-repeat;background-position: center center;background-color: #cc2027; } .dv-member-name {color:#ffffff;}.dv-member-info {color:#ffffff;}.dv-member-name {background-color: #cc2027;font-size: 18px;}.dv-member-info {background-color: #313131;font-size: 14px;}.slidizle-next {right: 30px;background-image: url('https://sportforlife.ca/wp-content/plugins/dvteam/css/icons/right.png');background-repeat: no-repeat;background-position: center center;}.slidizle-previous {left: 30px;background-image: url('https://sportforlife.ca/wp-content/plugins/dvteam/css/icons/left.png');background-repeat: no-repeat;background-position: center center;}.owl-theme .owl-controls .owl-nav .owl-prev {background-image: url('https://sportforlife.ca/wp-content/plugins/dvteam/css/icons/c-left.png');background-position: center center;background-repeat: no-repeat;}.owl-theme .owl-controls .owl-nav .owl-next {background-image: url('https://sportforlife.ca/wp-content/plugins/dvteam/css/icons/c-right.png');background-position: center center;background-repeat: no-repeat;}.owl-theme .owl-controls .owl-nav {background-color: #313131;}.dvskillbar-title {font-size:14px;color:#ffffff;} .dvskill-bar-percent {font-size:14px;color:#ffffff;}.dvskillbar {border:1px solid #414141;}.dvskillbar-bar {background-color: #212121;background-image: linear-gradient(135deg, rgba(255, 255, 255, .03) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .03) 50%, rgba(255, 255, 255, .03) 75%, transparent 75%, transparent);}.dvskillbar-title span {background: #212121;}.dvcv-content {margin: 30px 0px 0px 0px !important; }.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,.mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar,.mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,.mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar {background-color: #ffffff;}.dv-panel input, .dv-panel textarea,.teamlist-popup input, .teamlist-popup textarea{background: #414141;color:#ffffff;}.dv-panel input:focus, .dv-panel textarea:focus,.teamlist-popup input:focus, .teamlist-popup textarea:focus {border: 3px solid #414141;}.dv-panel input.wpcf7-form-control.wpcf7-submit,.teamlist-popup input.wpcf7-form-control.wpcf7-submit{color:#ffffff !important;background-color:#cc2027 !important;}.dv-panel input.wpcf7-form-control.wpcf7-submit:hover,.teamlist-popup input.wpcf7-form-control.wpcf7-submit:hover {color: #414141 !important;background-color:#ffffff !important;}.dv-panel div.wpcf7-mail-sent-ok,.dv-panel div.wpcf7-mail-sent-ng,.dv-panel div.wpcf7-spam-blocked,.dv-panel div.wpcf7-validation-errors,.teamlist-popup div.wpcf7-mail-sent-ok,.teamlist-popup div.wpcf7-mail-sent-ng,.teamlist-popup div.wpcf7-spam-blocked,.teamlist-popup div.wpcf7-validation-errors{background-color: #414141;} .teamlist-popup {background: #ffffff;width: 640px;}.mfp-bg {background: #212121;opacity: 0;}.mfp-close,.mfp-close-btn-in .mfp-close,.mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {color: #ffffff;}.dvfilters li {font-size: 18px;padding: 5px 15px;}.dvfilters-clear {height: 20px;}.dvfilters li {background-color: #f5f1f0;color: #414141;} .dvfilters li:hover {background: #414141;color: #ffffff;}.dvfilters li.gridactive {background: #cc2027;color: #ffffff;} .dvteam-previous a,.dvteam-next a {color: #ffffff !important;background-color: #212121;}.dvteam-next a:hover,.dvteam-previous a:hover {color: #ffffff !important;background-color: #eb5656;} </style><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Sport for Life RSS2 Feed" href="https://sportforlife.ca/feed/" />
+<link rel="pingback" href="https://sportforlife.ca/xmlrpc.php" />
+
+<style type='text/css' media='screen'>
+ #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:120px; line-height: 120px; }
+ .html_top_nav_header .av-logo-container{ height:120px;  }
+ .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:200px; } 
+</style>
+<!--[if lt IE 9]><script src="https://sportforlife.ca/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://sportforlife.ca/wp-content/uploads/2016/11/favicon.png" type="image/png">
+<style type="text/css">
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a{ background-color: #4054b2;	color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links{ border-color: #4054b2;}
+body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width: 1px !important;	outline-color: #FF0000 !important;}
+#pojo-a11y-toolbar{ top: 100px !important;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay{ background-color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title{ color: #333333;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active{ background-color: #4054b2;	color: #ffffff;}
+@media (max-width: 767px) { #pojo-a11y-toolbar { top: 50px !important; } }</style>
+<!-- To speed up the rendering and to display the site as fast as possible to the user we include some styles and scripts for above the fold content inline -->
+<script type="text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
+else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='',o=!1,a=!1;for(var t in e){if(e[t]+'transform' in document.documentElement.style){o=!0;n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style){a=!0}};if(o){document.documentElement.className+=' avia_transform '};if(a){document.documentElement.className+=' avia_transform3d '};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script>		<style type="text/css" id="wp-custom-css">
+			
+.title_container .main-title .entry-title {
+display:none!important
+}
+
+
+#full_slider_1 .image-overlay {
+	visibility: hidden !important;
+}
+#top #wrap_all .av-main-nav ul.sub-menu>li>a:hover {
+	background: #575757 !important;
+}
+.paoc-cb-popup-body a {
+	color: #cc2027!important;
+}
+.single_toggle {
+	border: 1px solid #e5e5e5!important;
+	margin-bottom: 20px;
+}
+.toggler {
+	color: #cc2027!important;
+}
+.toggler {
+	padding: 5px 10px!important;
+}
+p {
+	font-family: 'lato', Helvetica, Arial, sans-serif;
+}
+.icon-life .iconbox_icon, .icon-win .iconbox_icon, .icon-compete .iconbox_icon, .icon-train .iconbox_icon, .icon-learn .iconbox_icon, .icon-fun .iconbox_icon, .icon-start .iconbox_icon, .icon-first .iconbox_icon {
+	height: 40px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.icon-life .iconbox_icon:before, .icon-win .iconbox_icon:before, .icon-compete .iconbox_icon:before, .icon-train .iconbox_icon:before, .icon-learn .iconbox_icon:before, .icon-fun .iconbox_icon:before, .icon-start .iconbox_icon:before, .icon-first .iconbox_icon:before {
+	display: none;
+}
+.icon-life .iconbox_icon {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2016/06/active_for_life.png);
+}
+.icon-win .iconbox_icon {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2016/06/train_to_win-120x120.png);
+}
+.icon-compete .iconbox_icon {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2016/06/train_to_compete-120x120.png);
+}
+.icon-train .iconbox_icon {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2016/06/train_to_train-120x120.png);
+}
+.icon-learn .iconbox_icon {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2016/06/learn_to_train-120x120.png);
+}
+.icon-fun .iconbox_icon {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2016/06/fundamentals-120x120.png);
+}
+.icon-start .iconbox_icon {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2016/06/active_start-120x120.png);
+}
+.icon-first .iconbox_icon {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2016/12/awareness-first-involment-120x120.png);
+}
+#pojo-a11y-toolbar>div.pojo-a11y-toolbar-toggle>a>svg {
+	visibility: hidden!important;
+}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a {
+	background-image: url(https://sportforlife.ca/wp-content/uploads/2023/02/accessible-icon.png);
+	background-size: 44px;
+	width: 45px;
+	height: 45px;
+	background-repeat: no-repeat;
+}
+.hr {
+	background: none;
+}
+.hr-inner {
+	border: 1px solid;
+	border-color: #545454!important
+}
+.caorda-footer .lang_sel_sel, .caorda-footer .wpml-ls-link {
+	color: black!important
+}
+.logo img {
+	width: 80%!important
+}
+.caorda-footer .av_font_icon {
+	padding: 0px 10px
+}
+.caorda-footer p {
+	font-size: 13px!important;
+}
+.home-slider-codeblock {
+	padding-bottom: 50px
+}
+#top .content .flex_column .widget_nav_menu li {
+	display: inline-block;
+}
+#top .content .flex_column .widget_nav_menu li a:hover {
+	color: white!important;
+	background-color: rgba(255, 255, 255, 0);
+}
+#top .current_page_item, #top .widget_nav_menu .menu-item {
+	background-color: rgba(255, 255, 255, 0)!important;
+}
+#top .content .flex_column .widget_nav_menu .current_page_item a {
+	font-weight: normal!important
+}
+h3.slide-entry-title {
+	font-size: 20px!important;
+	color: #545454!important;
+}
+h3.slide-entry-title:hover {
+	color: #cc2027!important;
+}
+#top .slide-meta-time {
+	display: none
+}
+
+#top .main_color .input-text, #top .main_color input[type="text"], #top .main_color input[type="input"], #top .main_color input[type="password"], #top .main_color input[type="email"], #top .main_color input[type="number"], #top .main_color input[type="url"], #top .main_color input[type="tel"], #top .main_color input[type="search"], #top .main_color textarea, #top .main_color select{
+	border: 1px solid #999;
+}
+
+@media only screen and (min-width: 770px) and (max-width: 920px){
+	.html_header_top.html_header_sticky #top #wrap_all #main{
+		padding-top: 290px;
+	}
+}		</style>
+		<style type="text/css" id="avia-pojo-accessibility-override">
+body#top.pojo-a11y-focusable .main_menu ul li a:focus,
+body#top.pojo-a11y-focusable .sub_menu ul li a:focus,
+body#top.pojo-a11y-focusable .sub_menu li li a:focus,
+body#top.pojo-a11y-focusable .av-subnav-menu a:focus,
+body#top.pojo-a11y-focusable .widget_pages ul li a:focus,
+body#top.pojo-a11y-focusable .widget_nav_menu ul li a:focus{
+outline-width: 0px !important;
+border-width: 1px !important;
+border-style: solid !important;
+border-color: #FF0000 !important;
+overflow: visible !important;
+}
+
+
+body#top.pojo-a11y-focusable .widget_pages ul li a:focus,
+body#top.pojo-a11y-focusable .widget_nav_menu ul li a:focus{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+</style><style type="text/css">
+		@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+		src: url('https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+		url('https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+		url('https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'),
+		url('https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
+		url('https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
+		url('https://sportforlife.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
+		} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+		</style>
+</head>
+
+<body id="top" class="home page-template-default page page-id-3535 stretched rtl_columns av-curtain-numeric lato  avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.498039215686" /><feFuncG type="table" tableValues="0 0.498039215686" /><feFuncB type="table" tableValues="0 0.498039215686" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.549019607843 0.988235294118" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.717647058824 0.254901960784" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.278431372549" /><feFuncB type="table" tableValues="0.592156862745 0.278431372549" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.647058823529" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.780392156863 1" /><feFuncG type="table" tableValues="0 0.949019607843" /><feFuncB type="table" tableValues="0.352941176471 0.470588235294" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.650980392157 0.403921568627" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.447058823529 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.0980392156863 1" /><feFuncG type="table" tableValues="0 0.662745098039" /><feFuncB type="table" tableValues="0.847058823529 0.419607843137" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7TVPHW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_bottom_nav_header av_menu_left av_custom av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_minimal_header av_header_border_disabled' data-av_shrink_factor='50' role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div id='header_meta' class='container_wrap container_wrap_meta  av_phone_active_right av_extra_header_active av_entry_id_3535'>
+
+			      <div class='container'>
+			      <nav class='sub_menu'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ></nav><div class='phone-info '><div>
+<div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-dropdown-click js-wpml-ls-legacy-dropdown-click" id="lang_sel_click">
+	<ul>
+
+		<li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-dropdown-click">
+
+			<a href="#" class="js-wpml-ls-item-toggle wpml-ls-item-toggle lang_sel_sel icl-en">
+                <span class="wpml-ls-native icl_lang_sel_native">English</span></a>
+
+			<ul class="js-wpml-ls-sub-menu wpml-ls-sub-menu">
+				
+					<li class="icl-fr wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-fr wpml-ls-last-item">
+						<a href="https://sportpourlavie.ca" class="wpml-ls-link">
+                            <span class="wpml-ls-display icl_lang_sel_translated">French</span></a>
+					</li>
+
+							</ul>
+
+		</li>
+
+	</ul>
+</div>
+</div></div>			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo avia-standard-logo'><a href='https://sportforlife.ca/' class=''><img src="https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png" height="100" width="300" alt='Sport for Life' title='sport-for-life-logo-en' /></a></span></div></div><div id='header_main_alternate' class='container_wrap'><div class='container'><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul role="menu" class="menu av-main-nav" id="avia-menu"><li role="menuitem" id="menu-item-3475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-1"><a href="https://sportforlife.ca/about-us/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">About Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-5041" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/about-us/our-history/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Our History</span></a></li>
+	<li role="menuitem" id="menu-item-7958" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/international/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">International</span></a></li>
+	<li role="menuitem" id="menu-item-3474" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/team/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">The Team</span></a></li>
+	<li role="menuitem" id="menu-item-11313" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/careers/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Careers</span></a></li>
+	<li role="menuitem" id="menu-item-3472" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/about-us/our-history/partners/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Partners</span></a></li>
+	<li role="menuitem" id="menu-item-19212" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/catalysts-for-change/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Catalysts for Change</span></a></li>
+	<li role="menuitem" id="menu-item-18328" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/safe-sport/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Safe Sport</span></a></li>
+	<li role="menuitem" id="menu-item-15573" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/anti-racism-statement/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Anti-Racism Statement</span></a></li>
+	<li role="menuitem" id="menu-item-3701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://sportforlife.ca/contact-us/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Contact Us</span></a>
+	<ul class="sub-menu">
+		<li role="menuitem" id="menu-item-8829" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/policies/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Sport for Life Policies</span></a></li>
+		<li role="menuitem" id="menu-item-15342" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/annual-reports/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Annual reports</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-12113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-2"><a href="/quality-sport/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Quality Sport</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-14264" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/facing-covid-19-together/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Facing COVID-19 Together</span></a></li>
+	<li role="menuitem" id="menu-item-3448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://sportforlife.ca/long-term-development/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Long-Term Development</span></a>
+	<ul class="sub-menu">
+		<li role="menuitem" id="menu-item-13354" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://sportforlife.ca/key-factors/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Key Factors</span></a></li>
+	</ul>
+</li>
+	<li role="menuitem" id="menu-item-10520" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/quality-sport-division/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Quality Sport Division</span></a></li>
+	<li role="menuitem" id="menu-item-3728" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/projects/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Projects</span></a></li>
+	<li role="menuitem" id="menu-item-13405" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://sportforlife.ca/quality-sport-programs/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Quality Sport Programs</span></a></li>
+	<li role="menuitem" id="menu-item-4001" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/sport-frameworks/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Sport Frameworks</span></a></li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-13387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="http://physicalliteracy.ca" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Physical Literacy</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-14935" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/school-physical-activity-and-physical-literacy/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">School Physical Activity and Physical Literacy</span></a></li>
+	<li role="menuitem" id="menu-item-16960" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://physicalliteracy.ca/communities/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Physical Literacy for Communities</span></a></li>
+	<li role="menuitem" id="menu-item-16961" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://physicalliteracy.ca/play-tools/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Physical Literacy Assessment for Youth (PLAY) Tools</span></a></li>
+	<li role="menuitem" id="menu-item-17413" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/projects/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Projects</span></a></li>
+	<li role="menuitem" id="menu-item-16962" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://physicalliteracy.ca/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Learn more at physicaliteracy.ca</span></a></li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-13391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-4"><a href="/find-your-fit/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Find Your Fit</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-8791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-5"><a href="https://sportforlife-sportpourlavie.ca/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Campus</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-13389" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://sportforlife-sportpourlavie.ca/catalog.php" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">eLearning</span></a></li>
+	<li role="menuitem" id="menu-item-13390" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://getplaybuilder.com/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">PLAYBuilder</span></a></li>
+	<li role="menuitem" id="menu-item-15029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/workshops" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Workshops</span></a>
+	<ul class="sub-menu">
+		<li role="menuitem" id="menu-item-16965" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://app.smartsheet.com/b/form/e90819a01ef64d1bb3cfdf960c2aef40" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Book a workshop</span></a></li>
+	</ul>
+</li>
+	<li role="menuitem" id="menu-item-16964" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://sportforlife-sportpourlavie.ca/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Visit the campus</span></a></li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-3483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://sportforlife.ca/resources/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Resources</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-18335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-7"><a href="https://sportforlife.ca/sport-for-life-events/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Events</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-18174" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/calendar/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Calendar</span></a></li>
+	<li role="menuitem" id="menu-item-18088" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/iplc/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">International Physical Literacy Conference 2023 New York</span></a></li>
+	<li role="menuitem" id="menu-item-17443" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/summit/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Sport for Life Summit</span></a></li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-19069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-8"><a href="https://sportforlife.ca/blog/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">News</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-19070" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/blog/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Blog</span></a></li>
+	<li role="menuitem" id="menu-item-18332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://sportforlife.ca/enewsletters/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">eNewsletters</span></a>
+	<ul class="sub-menu">
+		<li role="menuitem" id="menu-item-4575" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/sign-up/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Sign Up</span></a></li>
+	</ul>
+</li>
+	<li role="menuitem" id="menu-item-13858" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://sportforlife.ca/media-contact/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Media Contact</span></a></li>
+</ul>
+</li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" role="menuitem"><a aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://sportforlife.ca/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;
+" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a></li><li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+<div class="header_bg"></div>
+<!-- end header -->
+</header>
+
+	<div id='main' class='all_colors' data-scroll-offset='118'>
+
+	<div id='full_slider_1'  class='avia-fullwidth-slider main_color avia-shadow   avia-builder-el-0  el_before_av_section  avia-builder-el-first   container_wrap fullsize'  ><div  class='avia-slideshow av-lhfdb4qp-4977cecfcb49ce2f7ee3263d22bc6010 avia-slideshow-no scaling av_slideshow_full avia-slide-slider av-slideshow-ui av-control-default av-slideshow-autoplay av-loop-endless av-loop-manual-endless av-default-height-applied   avia-slideshow-1' data-slideshow-options="{&quot;animation&quot;:&quot;slide&quot;,&quot;autoplay&quot;:true,&quot;loop_autoplay&quot;:&quot;endless&quot;,&quot;interval&quot;:10,&quot;loop_manual&quot;:&quot;manual-endless&quot;,&quot;autoplay_stopper&quot;:false,&quot;noNavigation&quot;:false,&quot;bg_slider&quot;:false,&quot;keep_padding&quot;:false,&quot;hoverpause&quot;:false,&quot;show_slide_delay&quot;:0}"  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><ul class='avia-slideshow-inner ' style='padding-bottom: 25.9643916914%;'><li  class='avia-slideshow-slide av-lhfdb4qp-4977cecfcb49ce2f7ee3263d22bc6010__0  slide-1 slide-odd'><a href="https://sportforlife.ca/catalysts-for-change/"  data-rel='slideshow-1' class='avia-slide-wrap '   ><img decoding="async" class="wp-image-21105 avia-img-lazy-loading-not-21105"  src="https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN.png" width="2696" height="700" title='S4L_2023_EDIA_EN' alt=''  itemprop="thumbnailUrl" srcset="https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN.png 2696w, https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN-500x130.png 500w, https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN-1030x267.png 1030w, https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN-768x199.png 768w, https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN-1536x399.png 1536w, https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN-2048x532.png 2048w, https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN-1500x389.png 1500w, https://sportforlife.ca/wp-content/uploads/2023/06/S4L_2023_EDIA_EN-705x183.png 705w" sizes="(max-width: 2696px) 100vw, 2696px" /></a></li><li  class='avia-slideshow-slide av-lhfdb4qp-4977cecfcb49ce2f7ee3263d22bc6010__1  slide-2 slide-even'><a href="https://sportforlife.ca/portfolio-item/long-term-development-in-sport-and-physical-activity-3-0/"  data-rel='slideshow-1' class='avia-slide-wrap '   ><img decoding="async" class="wp-image-21068 avia-img-lazy-loading-not-21068"  src="https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN.png" width="2696" height="700" title='LTD_slider_2023-EN' alt=''  itemprop="thumbnailUrl" srcset="https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN.png 2696w, https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN-500x130.png 500w, https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN-1030x267.png 1030w, https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN-768x199.png 768w, https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN-1536x399.png 1536w, https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN-2048x532.png 2048w, https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN-1500x389.png 1500w, https://sportforlife.ca/wp-content/uploads/2023/06/LTD_slider_2023-EN-705x183.png 705w" sizes="(max-width: 2696px) 100vw, 2696px" /></a></li><li  class='avia-slideshow-slide av-lhfdb4qp-4977cecfcb49ce2f7ee3263d22bc6010__2  slide-3 slide-odd'><a href="https://getplaybuilder.com/" target="_blank" rel="noopener noreferrer" data-rel='slideshow-1' class='avia-slide-wrap '><img decoding="async" class="wp-image-20047 avia-img-lazy-loading-not-20047"  src="https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN.png" width="2696" height="700" title='PLAYBuilder-Partners_webslider_EN' alt=''  itemprop="thumbnailUrl" srcset="https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN.png 2696w, https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN-500x130.png 500w, https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN-1030x267.png 1030w, https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN-768x199.png 768w, https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN-1536x399.png 1536w, https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN-2048x532.png 2048w, https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN-1500x389.png 1500w, https://sportforlife.ca/wp-content/uploads/2023/05/PLAYBuilder-Partners_webslider_EN-705x183.png 705w" sizes="(max-width: 2696px) 100vw, 2696px" /></a></li></ul><div class='avia-slideshow-arrows avia-slideshow-controls' ><a href='#prev' class='prev-slide ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  tabindex='-1'>Previous</a><a href='#next' class='next-slide ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  tabindex='-1'>Next</a></div><div class='avia-slideshow-dots avia-slideshow-controls'><a href='#1' class='goto-slide active' >1</a><a href='#2' class='goto-slide ' >2</a><a href='#3' class='goto-slide ' >3</a></div></div></div>
+<div id='av_section_1'  class='avia-section av-2c9jz3-8f3a83ee6597b52cd3235bb0aa57aaed main_color avia-section-default avia-no-border-styling  avia-builder-el-1  el_after_av_slideshow_full  avia-builder-el-last  avia-bg-style-scroll container_wrap fullsize'  ><div class='container av-section-cont-open' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-3535'><div class='entry-content-wrapper clearfix'>
+<section  class='av_textblock_section av-lehsy9zk-d7bad79f7e08c0036e78077d152eb01e '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><h1 style="text-align: center;">What We Do</h1>
+<p style="text-align: center;">Developing physical literacy and delivering quality sport</p>
+</div></section>
+<div  class='flex_column av-lehtg70z-52026812c1933dda1b8ee046aedcc3de av_one_third  avia-builder-el-3  el_after_av_textblock  el_before_av_one_third  first flex_column_div avia-link-column av-column-link  column-top-margin'    data-link-column-url="https://sportforlife.ca/physical-literacy/"   ><a class="av-screen-reader-only" href=https://sportforlife.ca/physical-literacy/ >Link to: Physical Literacy</a><div  class='avia-image-container av-lehtf90j-2f49c68bdc239640f6ac77d63c6d874c av-styling- avia-align-center  avia-builder-el-4  el_before_av_textblock  avia-builder-el-first '   itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img decoding="async" class='wp-image-8780 avia-img-lazy-loading-not-8780 avia_image ' src="https://sportforlife.ca/wp-content/uploads/2018/01/Family-Playing.jpg" alt='' title='Family-Playing'  height="247" width="370"  itemprop="thumbnailUrl"  /></div></div></div>
+<section  class='av_textblock_section av-lehtfm5w-c2bf5bfe6a9cea26ffecccf3d20e29c0 '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p style="text-align: center;">Physical Literacy</p>
+</div></section></div><div  class='flex_column av-lehtgg7f-a70b72a0ad2a76f7b9ac78efdd060bfd av_one_third  avia-builder-el-6  el_after_av_one_third  el_before_av_one_third  flex_column_div avia-link-column av-column-link  column-top-margin'    data-link-column-url="https://sportforlife.ca/quality-sport/"   ><a class="av-screen-reader-only" href=https://sportforlife.ca/quality-sport/ >Link to: Quality Sport</a><div  class='avia-image-container av-azz1qn-c6b58053ca377ea90905aa8821d611b5 av-styling- avia-align-center  avia-builder-el-7  el_before_av_textblock  avia-builder-el-first '   itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img decoding="async" class='wp-image-5158 avia-img-lazy-loading-not-5158 avia_image ' src="https://sportforlife.ca/wp-content/uploads/2016/08/Baseball-Canada-1.jpg" alt='' title='baseball-canada'  height="247" width="370"  itemprop="thumbnailUrl"  /></div></div></div>
+<section  class='av_textblock_section av-94es0f-c7f1f34380a700750cb39382026bd397 '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p style="text-align: center;">Quality Sport</p>
+</div></section></div><div  class='flex_column av-73fgof-3aca30cdb78d18d39d7aaa5181edfe1d av_one_third  avia-builder-el-9  el_after_av_one_third  el_before_av_hr  flex_column_div avia-link-column av-column-link  column-top-margin'    data-link-column-url="https://sportforlife.ca/sport-for-life-events/"   ><a class="av-screen-reader-only" href=https://sportforlife.ca/sport-for-life-events/ >Link to: Events</a><div  class='avia-image-container av-69lfjz-0b8e07915bd54a9eb3fee5059a36ea86 av-styling- avia-align-center  avia-builder-el-10  el_before_av_textblock  avia-builder-el-first '   itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img decoding="async" class='wp-image-5156 avia-img-lazy-loading-not-5156 avia_image ' src="https://sportforlife.ca/wp-content/uploads/2016/08/Events.jpg" alt='' title='events'  height="247" width="370"  itemprop="thumbnailUrl"  /></div></div></div>
+<section  class='av_textblock_section av-3z0tnz-a51b2a33a9decfcad06383180d017fd2 '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p style="text-align: center;">Events</p>
+</div></section></div><div  class='hr av-253hun-67ba66fd356100965e7ee9bbbbfa5a09 hr-full  avia-builder-el-12  el_after_av_one_third  el_before_av_textblock  hr-no-shadow'><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<section  class='av_textblock_section av-19y3hb-668adcd873dd135dd82c9960cd5d751e '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><h1 style="text-align: center;">Recent Articles</h1>
+<p style="text-align: center;">on our <a href="/blog/">blog</a></p>
+</div></section>
+<div  data-slideshow-options="{&quot;animation&quot;:&quot;fade&quot;,&quot;autoplay&quot;:false,&quot;loop_autoplay&quot;:&quot;once&quot;,&quot;interval&quot;:5,&quot;loop_manual&quot;:&quot;manual-endless&quot;,&quot;autoplay_stopper&quot;:false,&quot;noNavigation&quot;:false,&quot;show_slide_delay&quot;:90}" class='avia-content-slider avia-content-grid-active avia-content-slider1 avia-content-slider-even  avia-builder-el-14  el_after_av_textblock  el_before_av_hr  av-slideshow-ui av-control-default   av-no-slider-navigation av-slideshow-manual av-loop-once av-loop-manual-endless '  itemscope="itemscope" itemtype="https://schema.org/Blog" ><div class="avia-content-slider-inner"><div class="slide-entry-wrap"><article class='slide-entry flex_column  post-entry post-entry-21300 slide-entry-overview slide-loop-1 slide-parity-odd  av_one_fourth first real-thumbnail post-format-standard'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/blog/bonivital-soccer-club-mobilizes-adaptive-programming/' data-rel='slide-1' class='slide-image' title='Bonivital Soccer Club mobilizes adaptive programming'><img width="500" height="250" src="https://sportforlife.ca/wp-content/uploads/2023/06/X8JGJ0LA.png" class="wp-image-21303 avia-img-lazy-loading-not-21303 attachment-no scaling size-no scaling wp-post-image" alt="" decoding="async" /></a><div class="slide-content"><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='https://sportforlife.ca/blog/bonivital-soccer-club-mobilizes-adaptive-programming/' title='Bonivital Soccer Club mobilizes adaptive programming'>Bonivital Soccer Club mobilizes adaptive programming</a></h3><span class="av-vertical-delimiter"></span></header><div class="slide-meta"><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2023-06-26T16:48:04+00:00" >June 26, 2023</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >When the Bonivital Soccer Club in Winnipeg first launched an All Abilities pilot involving adaptive sport, they created two pathways: one for deaf participants, and one for players who have intellectual or developmental disabilities. It was 2022, and they were eyeing a growing trend of soccer clubs introducing…<div class="read-more-link"><a href="https://sportforlife.ca/blog/bonivital-soccer-club-mobilizes-adaptive-programming/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/06/X8JGJ0LA.png</span>
+						<span itemprop='height'>250</span>
+						<span itemprop='width'>500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Will Johnson</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Will Johnson</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2016-08-03T20:18:36+00:00" >2023-06-26 16:48:04</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2023-06-28 18:25:21</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Bonivital Soccer Club mobilizes adaptive programming</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-21285 slide-entry-overview slide-loop-2 slide-parity-even  av_one_fourth  real-thumbnail post-format-standard'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/blog/sport-for-life-acknowledges-its-partners-following-country-wide-summit-tour/' data-rel='slide-1' class='slide-image' title='Sport for Life acknowledges its partners following country-wide Summit tour'><img width="500" height="250" src="https://sportforlife.ca/wp-content/uploads/2023/06/HiWnSGqg.png" class="wp-image-21286 avia-img-lazy-loading-not-21286 attachment-no scaling size-no scaling wp-post-image" alt="" decoding="async" /></a><div class="slide-content"><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='https://sportforlife.ca/blog/sport-for-life-acknowledges-its-partners-following-country-wide-summit-tour/' title='Sport for Life acknowledges its partners following country-wide Summit tour'>Sport for Life acknowledges its partners following country-wide Summit tour</a></h3><span class="av-vertical-delimiter"></span></header><div class="slide-meta"><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2023-06-25T18:22:01+00:00" >June 25, 2023</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >Earlier this year, Sport for Life embarked on a cross-country, multi-community Summit tour that connected local sport, recreation, education and health champions.
+
+Over the course of three months, Sport for Life collaborated with local organizations in nine communities to host unique events, uniting…<div class="read-more-link"><a href="https://sportforlife.ca/blog/sport-for-life-acknowledges-its-partners-following-country-wide-summit-tour/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/06/HiWnSGqg.png</span>
+						<span itemprop='height'>250</span>
+						<span itemprop='width'>500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Will Johnson</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Will Johnson</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2016-08-03T20:18:36+00:00" >2023-06-25 18:22:01</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2023-06-26 18:39:31</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Sport for Life acknowledges its partners following country-wide Summit tour</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-21273 slide-entry-overview slide-loop-3 slide-parity-odd  av_one_fourth  real-thumbnail post-format-standard'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/blog/new-play-website-unveiled/' data-rel='slide-1' class='slide-image' title='New PLAY website unveiled'><img width="500" height="250" src="https://sportforlife.ca/wp-content/uploads/2023/06/F0ItImRc.png" class="wp-image-21278 avia-img-lazy-loading-not-21278 attachment-no scaling size-no scaling wp-post-image" alt="" decoding="async" /></a><div class="slide-content"><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='https://sportforlife.ca/blog/new-play-website-unveiled/' title='New PLAY website unveiled'>New PLAY website unveiled</a></h3><span class="av-vertical-delimiter"></span></header><div class="slide-meta"><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2023-06-25T18:07:15+00:00" >June 25, 2023</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >Sport for Life is thrilled to introduce the new and improved PLAY website, where teachers, parents, coaches and group leaders can observe and support the children and youth they’re working with.
+
+The site is live now, and allows leaders to input and manage the data for each of their participants…<div class="read-more-link"><a href="https://sportforlife.ca/blog/new-play-website-unveiled/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/06/F0ItImRc.png</span>
+						<span itemprop='height'>250</span>
+						<span itemprop='width'>500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Will Johnson</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Will Johnson</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2016-08-03T20:18:36+00:00" >2023-06-25 18:07:15</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2023-06-25 18:07:15</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>New PLAY website unveiled</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-21235 slide-entry-overview slide-loop-4 slide-parity-even  av_one_fourth  real-thumbnail post-format-standard'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/blog/physical-activity-journals-go-digital-with-mysportlink/' data-rel='slide-1' class='slide-image' title='Physical activity journals go digital with MySportLink'><img width="500" height="250" src="https://sportforlife.ca/wp-content/uploads/2023/06/8aFW0uZk.png" class="wp-image-21230 avia-img-lazy-loading-not-21230 attachment-no scaling size-no scaling wp-post-image" alt="" decoding="async" /></a><div class="slide-content"><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='https://sportforlife.ca/blog/physical-activity-journals-go-digital-with-mysportlink/' title='Physical activity journals go digital with MySportLink'>Physical activity journals go digital with MySportLink</a></h3><span class="av-vertical-delimiter"></span></header><div class="slide-meta"><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2023-06-23T18:17:43+00:00" >June 23, 2023</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >It’s now easier than ever to keep track of your athletic development, thanks to an app called MySportLink. Offered by Sportéco, it’s the latest evolution in their offerings following the success of the My Athletic Notebook journals, which gives athletes an easy way to analyze and evaluate their…<div class="read-more-link"><a href="https://sportforlife.ca/blog/physical-activity-journals-go-digital-with-mysportlink/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/06/8aFW0uZk.png</span>
+						<span itemprop='height'>250</span>
+						<span itemprop='width'>500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Will Johnson</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Will Johnson</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2016-08-03T20:18:36+00:00" >2023-06-23 18:17:43</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2023-06-29 15:54:07</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Physical activity journals go digital with MySportLink</span></span></span></article></div><div class="slide-entry-wrap"><article class='slide-entry flex_column  post-entry post-entry-21218 slide-entry-overview slide-loop-5 slide-parity-odd  av_one_fourth first real-thumbnail post-format-standard'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/blog/fillactive-launches-its-brand-new-podcast-for-parents-a-chacune-son-terrain-de-jeu-about-physical-activity-for-teenage-girls/' data-rel='slide-1' class='slide-image' title='Fillactive launches its brand new podcast for parents, &#8220;À chacune son terrain de jeu&#8221;, about physical activity for teenage girls'><img width="500" height="250" src="https://sportforlife.ca/wp-content/uploads/2023/06/L66yaaIs.png" class="wp-image-21222 avia-img-lazy-loading-not-21222 attachment-no scaling size-no scaling wp-post-image" alt="" decoding="async" /></a><div class="slide-content"><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='https://sportforlife.ca/blog/fillactive-launches-its-brand-new-podcast-for-parents-a-chacune-son-terrain-de-jeu-about-physical-activity-for-teenage-girls/' title='Fillactive launches its brand new podcast for parents, &#8220;À chacune son terrain de jeu&#8221;, about physical activity for teenage girls'>Fillactive launches its brand new podcast for parents, &#8220;À chacune son terrain de jeu&#8221;, about physical activity for teenage girls</a></h3><span class="av-vertical-delimiter"></span></header><div class="slide-meta"><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2023-06-23T17:53:06+00:00" >June 23, 2023</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >As part of the Fillactive Wellness Program, powered by Beneva, Fillactive has brought together experts, athletes and public figures to discuss physical activity for teenage girls. At Fillactive and here at Sport for Life, we know that being active on a regular basis is a wonderful and recognized tool…<div class="read-more-link"><a href="https://sportforlife.ca/blog/fillactive-launches-its-brand-new-podcast-for-parents-a-chacune-son-terrain-de-jeu-about-physical-activity-for-teenage-girls/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/06/L66yaaIs.png</span>
+						<span itemprop='height'>250</span>
+						<span itemprop='width'>500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Will Johnson</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Will Johnson</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2016-08-03T20:18:36+00:00" >2023-06-23 17:53:06</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2023-06-23 17:55:31</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Fillactive launches its brand new podcast for parents, &#8220;À chacune son terrain de jeu&#8221;, about physical activity for teenage girls</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-21174 slide-entry-overview slide-loop-6 slide-parity-even  av_one_fourth  real-thumbnail post-format-standard'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/blog/sport-for-life-applauds-physical-activity-opportunities-for-older-adults/' data-rel='slide-1' class='slide-image' title='Sport for Life applauds physical activity opportunities for older adults'><img width="500" height="250" src="https://sportforlife.ca/wp-content/uploads/2023/06/bVEOX7NA.png" class="wp-image-21181 avia-img-lazy-loading-not-21181 attachment-no scaling size-no scaling wp-post-image" alt="" decoding="async" /></a><div class="slide-content"><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='https://sportforlife.ca/blog/sport-for-life-applauds-physical-activity-opportunities-for-older-adults/' title='Sport for Life applauds physical activity opportunities for older adults'>Sport for Life applauds physical activity opportunities for older adults</a></h3><span class="av-vertical-delimiter"></span></header><div class="slide-meta"><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2023-06-22T17:37:13+00:00" >June 22, 2023</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+Sport for Life’s multistage Long-Term Development in Sport and Physical Activity framework is not only for athletes: it also describes developmental periods for individuals as they participate in sport and physical activity throughout their lifetime.
+When it comes to sport opportunities, there’s…<div class="read-more-link"><a href="https://sportforlife.ca/blog/sport-for-life-applauds-physical-activity-opportunities-for-older-adults/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/06/bVEOX7NA.png</span>
+						<span itemprop='height'>250</span>
+						<span itemprop='width'>500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Will Johnson</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Will Johnson</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2016-08-03T20:18:36+00:00" >2023-06-22 17:37:13</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2023-06-28 18:01:01</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Sport for Life applauds physical activity opportunities for older adults</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-21078 slide-entry-overview slide-loop-7 slide-parity-odd  av_one_fourth  real-thumbnail post-format-standard'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/blog/the-power-of-sport-the-story-of-dash-a-liberian-refugee-bringing-the-gift-of-soccer-to-new-to-canada-participants/' data-rel='slide-1' class='slide-image' title='The power of sport: The story of Dash, a Liberian refugee bringing the gift of soccer to New to Canada Participants'><img width="500" height="250" src="https://sportforlife.ca/wp-content/uploads/2023/06/Y__VeFM8.png" class="wp-image-21085 avia-img-lazy-loading-not-21085 attachment-no scaling size-no scaling wp-post-image" alt="" decoding="async" /></a><div class="slide-content"><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='https://sportforlife.ca/blog/the-power-of-sport-the-story-of-dash-a-liberian-refugee-bringing-the-gift-of-soccer-to-new-to-canada-participants/' title='The power of sport: The story of Dash, a Liberian refugee bringing the gift of soccer to New to Canada Participants'>The power of sport: The story of Dash, a Liberian refugee bringing the gift of soccer to New to Canada Participants</a></h3><span class="av-vertical-delimiter"></span></header><div class="slide-meta"><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2023-06-20T16:45:02+00:00" >June 20, 2023</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >Dash Richardson wasn’t used to seeing empty soccer fields. 
+
+When the Liberia-born athlete first arrived in Canada as a refugee, he was astonished by the stark contrast between the two countries. The food didn’t have the same flavour, the school culture was dramatically different, and he had trouble…<div class="read-more-link"><a href="https://sportforlife.ca/blog/the-power-of-sport-the-story-of-dash-a-liberian-refugee-bringing-the-gift-of-soccer-to-new-to-canada-participants/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/06/Y__VeFM8.png</span>
+						<span itemprop='height'>250</span>
+						<span itemprop='width'>500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Will Johnson</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Will Johnson</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2016-08-03T20:18:36+00:00" >2023-06-20 16:45:02</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2023-06-20 17:59:53</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>The power of sport: The story of Dash, a Liberian refugee bringing the gift of soccer to New to Canada Participants</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-20795 slide-entry-overview slide-loop-8 slide-parity-even  post-entry-last  av_one_fourth  real-thumbnail post-format-standard'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/blog/engage-sport-north-welcomes-new-to-canada-participants/' data-rel='slide-1' class='slide-image' title='Engage Sport North welcomes New to Canada Participants'><img width="500" height="250" src="https://sportforlife.ca/wp-content/uploads/2023/06/jY4S7D1E.png" class="wp-image-20859 avia-img-lazy-loading-not-20859 attachment-no scaling size-no scaling wp-post-image" alt="" decoding="async" /></a><div class="slide-content"><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='https://sportforlife.ca/blog/engage-sport-north-welcomes-new-to-canada-participants/' title='Engage Sport North welcomes New to Canada Participants'>Engage Sport North welcomes New to Canada Participants</a></h3><span class="av-vertical-delimiter"></span></header><div class="slide-meta"><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2023-06-06T16:28:47+00:00" >June 6, 2023</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >When Engage Sport North first teamed up with Northern Lights College to take charge of their recreation and athletics department, their physical activity leaders had no idea that their quality sport programming would attract a disproportionate number of New to Canada Participants. But then students from…<div class="read-more-link"><a href="https://sportforlife.ca/blog/engage-sport-north-welcomes-new-to-canada-participants/" class="more-link">Read more<span class="more-link-arrow"></span></a></div></div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/06/jY4S7D1E.png</span>
+						<span itemprop='height'>250</span>
+						<span itemprop='width'>500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Will Johnson</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://sportforlife.ca/wp-content/uploads/2023/02/sport-for-life-logo-en-1.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Will Johnson</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2016-08-03T20:18:36+00:00" >2023-06-06 16:28:47</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2023-06-26 18:33:02</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Engage Sport North welcomes New to Canada Participants</span></span></span></article></div></div></div>
+<div  class='hr av-41lmpr-3223314d8442b84e63893bced495b09a hr-full  avia-builder-el-15  el_after_av_blog  el_before_av_textblock  hr-shadow'><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<section  class='av_textblock_section av-lehtpiac-4f9c0061d6ce31cfdbca8ebdfd42cb1f '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><h1 style="text-align: center;">The Stages</h1>
+<p style="text-align: center;">within the basic <a href="/qualitysport/long-term-athlete-development/">Long-Term Development</a> framework</p>
+</div></section>
+<div  class='flex_column av-2zzw5b-ec7159efd54400c2ba90402d25248294 av_one_half  avia-builder-el-17  el_after_av_textblock  el_before_av_one_half  first flex_column_div  column-top-margin'     ><article  class='iconbox iconbox_right_content av-leip2ez5-4e0485e000f91ace3f7338a98fa51d31  avia-builder-el-18  el_before_av_hr  avia-builder-el-first  icon-life'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/stages/active-for-life/' title='Active for Life'  class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title '  itemprop="headline" ><a href='https://sportforlife.ca/stages/active-for-life/' title='Active for Life' >Active for Life</a></h3></header><div class='iconbox_content_container '  itemprop="text" ><p>Individuals who have a desire to be physically active are in the Active for Life stage. A participant may choose&#8230;</p>
+</div></div><footer class="entry-footer"></footer></article>
+<div  class='hr av-2m62n-545810eb4315d3c4e1656823af98a526 hr-invisible  avia-builder-el-19  el_after_av_icon_box  el_before_av_icon_box '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<article  class='iconbox iconbox_right_content av-leip2alt-8beaa81c0c7779071ae1d03e1814b5cf  avia-builder-el-20  el_after_av_hr  el_before_av_hr  icon-win'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/stages/train-to-win/' title='Train to Win'  class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title '  itemprop="headline" ><a href='https://sportforlife.ca/stages/train-to-win/' title='Train to Win' >Train to Win</a></h3></header><div class='iconbox_content_container '  itemprop="text" ><p>Athletes in the Train to Win stage are world class competitors who are competing at the highest level of competition&#8230;</p>
+</div></div><footer class="entry-footer"></footer></article>
+<div  class='hr av-2s3wdr-8c2277436a7a02ab2b30175e75e1ce67 hr-invisible  avia-builder-el-21  el_after_av_icon_box  el_before_av_icon_box '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<article  class='iconbox iconbox_right_content av-leip1ucn-021c8f45e53dca0f22bbd2b36a1c8d79  avia-builder-el-22  el_after_av_hr  el_before_av_hr  icon-compete'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/stages/train-to-compete/' title='Train to Compete'  class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title '  itemprop="headline" ><a href='https://sportforlife.ca/stages/train-to-compete/' title='Train to Compete' >Train to Compete</a></h3></header><div class='iconbox_content_container '  itemprop="text" ><p>Athletes enter the Train to Compete stage when they are proficient in sport-specific Train to Train athlete development components (physical,&#8230;</p>
+</div></div><footer class="entry-footer"></footer></article>
+<div  class='hr av-ixvhb-e9725cc8fe90b8ec0ff8264f36ed0d92 hr-invisible  avia-builder-el-23  el_after_av_icon_box  el_before_av_icon_box '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<article  class='iconbox iconbox_right_content av-leip1f7n-a50d788a07a1648494ef17f803c0fdf7  avia-builder-el-24  el_after_av_hr  avia-builder-el-last  icon-train'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/stages/train-to-train/' title='Train to Train'  class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title '  itemprop="headline" ><a href='https://sportforlife.ca/stages/train-to-train/' title='Train to Train' >Train to Train</a></h3></header><div class='iconbox_content_container '  itemprop="text" ><p>Athletes enter the Train to Train stage when they have developed proficiency in the athlete development performance components (physical, technical-tactical,&#8230;</p>
+</div></div><footer class="entry-footer"></footer></article></div><div  class='flex_column av-61j0b3-078dae621d3f1f83e317d4d662e2aefe av_one_half  avia-builder-el-25  el_after_av_one_half  el_before_av_hr  flex_column_div  column-top-margin'     ><article  class='iconbox iconbox_right_content av-4doqan-fadc85b5dfac1a60a30182dddfce8903  avia-builder-el-26  el_before_av_hr  avia-builder-el-first  icon-learn'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/stages/learn-to-train/' title='Learn to Train'  class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title '  itemprop="headline" ><a href='https://sportforlife.ca/stages/learn-to-train/' title='Learn to Train' >Learn to Train</a></h3></header><div class='iconbox_content_container '  itemprop="text" ><p>Once a wide range of fundamental movement skills have been acquired, participants progress into the Learn to Train stage leading to&#8230;</p>
+</div></div><footer class="entry-footer"></footer></article>
+<div  class='hr av-26vsnz-cbd856a7d9a8b3c79468b8617368d9ec hr-invisible  avia-builder-el-27  el_after_av_icon_box  el_before_av_icon_box '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<article  class='iconbox iconbox_right_content av-2q863z-31a0c8128f8c5dfae518a63083cdf89f  avia-builder-el-28  el_after_av_hr  el_before_av_hr  icon-fun'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/stages/fundamentals/' title='FUNdamentals'  class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title '  itemprop="headline" ><a href='https://sportforlife.ca/stages/fundamentals/' title='FUNdamentals' >FUNdamentals</a></h3></header><div class='iconbox_content_container '  itemprop="text" ><p>In the FUNdamentals stage, participants develop fundamental movement skills in structured and unstructured environments for play. The focus is on&#8230;</p>
+</div></div><footer class="entry-footer"></footer></article>
+<div  class='hr av-44jifz-2456fe05ffbe77dcb6fd7be758494ace hr-invisible  avia-builder-el-29  el_after_av_icon_box  el_before_av_icon_box '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<article  class='iconbox iconbox_right_content av-leip0zv7-6f51a1855f5276a88bd4ee3900de9677  avia-builder-el-30  el_after_av_hr  el_before_av_hr  icon-start'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/stages/active-start/' title='Active Start'  class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title '  itemprop="headline" ><a href='https://sportforlife.ca/stages/active-start/' title='Active Start' >Active Start</a></h3></header><div class='iconbox_content_container '  itemprop="text" ><p>From 0-6 years, boys and girls need to be engaged in daily active play. Through play and movement, they develop&#8230;</p>
+</div></div><footer class="entry-footer"></footer></article>
+<div  class='hr av-2oinlr-e026e88c65bb613b9062cf3ebed1646e hr-invisible  avia-builder-el-31  el_after_av_icon_box  el_before_av_icon_box '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<article  class='iconbox iconbox_right_content av-leip16wb-24d2785e406af13ab421b605ac080588  avia-builder-el-32  el_after_av_hr  avia-builder-el-last  icon-first'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='https://sportforlife.ca/stages/awareness-and-first-involvement/' title='Awareness and First Involvement'  class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title '  itemprop="headline" ><a href='https://sportforlife.ca/stages/awareness-and-first-involvement/' title='Awareness and First Involvement' >Awareness and First Involvement</a></h3></header><div class='iconbox_content_container '  itemprop="text" ><p>To engage in sport and physical activity, individuals must be aware of what opportunities exist for them, and when they&#8230;</p>
+</div></div><footer class="entry-footer"></footer></article></div><div  class='hr av-leisk8m5-0524a099da0565958bfc3fecee10b6cf hr-invisible  avia-builder-el-33  el_after_av_one_half  avia-builder-el-last '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+
+</div></div></div><!-- close content main div --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element --><div class="footer-page-content footer_color" id="footer-page"><div id='av_section_2'  class='avia-section av-lehrnwoy-b62ee1b7db0e1e0042cab0532502217c footer_color avia-section-default avia-no-border-styling  avia-builder-el-0  avia-builder-el-no-sibling  caorda-footer avia-bg-style-scroll container_wrap fullsize'  ><div class='container av-section-cont-open' ><main  role="main" itemprop="mainContentOfPage"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-3535'><div class='entry-content-wrapper clearfix'>
+<div  class='flex_column av-4ahxqt3-489fa499c5bc2c35e48b355ad462578c av_one_third  avia-builder-el-1  el_before_av_one_third  avia-builder-el-first  first flex_column_div  '     ><div  class='avia-builder-widget-area clearfix  avia-builder-el-2  avia-builder-el-no-sibling '><section id="icl_lang_sel_widget-2" class="widget clearfix widget_icl_lang_sel_widget">
+<div
+	 class="wpml-ls-sidebars-footer-sidebar-1 wpml-ls wpml-ls-legacy-dropdown js-wpml-ls-legacy-dropdown" id="lang_sel">
+	<ul>
+
+		<li tabindex="0" class="wpml-ls-slot-footer-sidebar-1 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-dropdown">
+			<a href="#" class="js-wpml-ls-item-toggle wpml-ls-item-toggle lang_sel_sel icl-en">
+                <span class="wpml-ls-native icl_lang_sel_native">English</span></a>
+
+			<ul class="wpml-ls-sub-menu">
+				
+					<li class="icl-fr wpml-ls-slot-footer-sidebar-1 wpml-ls-item wpml-ls-item-fr wpml-ls-last-item">
+						<a href="https://sportpourlavie.ca" class="wpml-ls-link">
+                            <span class="wpml-ls-native icl_lang_sel_native" lang="fr">Français</span><span class="wpml-ls-display icl_lang_sel_translated"><span class="wpml-ls-bracket icl_lang_sel_bracket"> (</span>French<span class="wpml-ls-bracket icl_lang_sel_bracket">)</span></span></a>
+					</li>
+
+							</ul>
+
+		</li>
+
+	</ul>
+</div>
+<span class="seperator extralight-border"></span></section></div></div><div  class='flex_column av-445ukyf-43691b6a5e8567237c586099e2dbe52d av_one_third  avia-builder-el-3  el_after_av_one_third  el_before_av_one_third  flex_column_div  '     ><style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-3apffef-14979ee981b5c563d94efde92eddf381">
+.av_font_icon.av-3apffef-14979ee981b5c563d94efde92eddf381 .av-icon-char{
+font-size:25px;
+line-height:25px;
+}
+</style>
+<span  class='av_font_icon av-3apffef-14979ee981b5c563d94efde92eddf381 avia_animate_when_visible av-icon-style- avia-icon-pos-left av-no-color avia-icon-animate'><a href='https://www.facebook.com/CanadianSportforLife/' target="_blank" rel="noopener noreferrer" class='av-icon-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a></span>
+
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-32ubt93-80a007f86a3cb7b8fd94f4c0a750f4d4">
+.av_font_icon.av-32ubt93-80a007f86a3cb7b8fd94f4c0a750f4d4 .av-icon-char{
+font-size:25px;
+line-height:25px;
+}
+</style>
+<span  class='av_font_icon av-32ubt93-80a007f86a3cb7b8fd94f4c0a750f4d4 avia_animate_when_visible av-icon-style- avia-icon-pos-left av-no-color avia-icon-animate'><a href='https://twitter.com/sportforlife_' target="_blank" rel="noopener noreferrer" class='av-icon-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a></span></div><div  class='flex_column av-2qzg0if-6e6124004c6f1ecfd792ccd829cb261b av_one_third  avia-builder-el-6  el_after_av_one_third  el_before_av_three_fifth  flex_column_div  '     ><style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-lehrryzp-445295a9b7eac203c953b2fb9d7ec67a">
+.avia-image-container.av-lehrryzp-445295a9b7eac203c953b2fb9d7ec67a img.avia_image{
+box-shadow:none;
+}
+.avia-image-container.av-lehrryzp-445295a9b7eac203c953b2fb9d7ec67a .av-image-caption-overlay-center{
+color:#ffffff;
+}
+</style>
+<div  class='avia-image-container av-lehrryzp-445295a9b7eac203c953b2fb9d7ec67a av-styling- avia-align-center  avia-builder-el-7  avia-builder-el-no-sibling '   itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><a href="http://www.abuse-free-sport.ca/" class='avia_image' target="_blank" rel="noopener noreferrer"><img decoding="async" class='wp-image-13219 avia-img-lazy-loading-not-13219 avia_image ' src="https://sportforlife.ca/wp-content/uploads/2019/10/image003.jpg" alt='' title='image003'  height="140" width="245"  itemprop="thumbnailUrl"  /></a></div></div></div></div><div  class='flex_column av-18hoq8n-7289c681f9b099625eec7964058524c5 av_three_fifth  avia-builder-el-8  el_after_av_one_third  el_before_av_two_fifth  first flex_column_div  column-top-margin'     ><div  class='avia-builder-widget-area clearfix  avia-builder-el-9  avia-builder-el-no-sibling '><div id="nav_menu-2" class="widget clearfix widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-18972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18972"><a href="https://sportforlife.ca/about-us/">About Us</a></li>
+<li id="menu-item-18974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18974"><a href="https://sportforlife.ca/quality-sport/">Quality Sport</a></li>
+<li id="menu-item-18975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18975"><a target="_blank" rel="noopener" href="http://physicalliteracy.ca/">Physical Literacy</a></li>
+<li id="menu-item-18976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18976"><a href="https://sportforlife.ca/find-your-fit/">Find Your Fit</a></li>
+<li id="menu-item-18977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18977"><a target="_blank" rel="noopener" href="https://sportforlife-sportpourlavie.ca/">Campus</a></li>
+<li id="menu-item-18978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18978"><a href="https://sportforlife.ca/resources/">Resources</a></li>
+<li id="menu-item-18980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18980"><a href="/sport-for-life-events/">Events</a></li>
+<li id="menu-item-19068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19068"><a href="https://sportforlife.ca/blog/">News</a></li>
+</ul></div></div></div></div><div  class='flex_column av-ira8yf-00db979b9740baace3e8eda1566c8276 av_two_fifth  avia-builder-el-10  el_after_av_three_fifth  avia-builder-el-last  flex_column_div  column-top-margin'     ><section  class='av_textblock_section av-8ch3r-d0a84b9edfc89c50f774665314c1d060 '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>SPORT FOR LIFE © 2023 <a href="https://sportforlife.ca/privacy-and-sensitive-information-policy/">Privacy and sensitive information policy</a></p>
+</div></section></div>
+</div></div></main><!-- close content main element --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element --></div>
+
+			<!-- end main -->
+		</div>
+
+		<!-- end wrap_all --></div>
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+<script>jQuery(document).ready(function(){jQuery(".kiwi-logo-carousel-default").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:5,moveSlides:1,slideWidth:150,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-federal-funding-partner").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-partenaire-financier-federal").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-partenaires-financiers-pour-les-projets").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-playbuilder-partners").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-project-funding-partners").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:true,pause:4000,useCSS:false});});</script>
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://sportforlife.ca/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://sportforlife.ca/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://sportforlife.ca/wp-admin/admin-ajax.php?lang=en';
+/* ]]> */ 
+</script>
+ 
+ <script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.6' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/sportforlife.ca\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.6' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/dvteam/js/wookmark.js?ver=6.2.2' id='dv_wookmark-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/dvteam/js/owl.js?ver=6.2.2' id='dv_owl-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/dvteam/js/scrollbar.js?ver=6.2.2' id='dv_scrollbar-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/dvteam/js/panelslider.js?ver=6.2.2' id='dv_slidepanel-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/dvteam/js/popup.js?ver=6.2.2' id='dv_popup-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/dvteam/js/slidizle.js?ver=6.2.2' id='dv_slidizle-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/dvteam/js/custom.js?ver=6.2.2' id='dvteam_custom-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/go_portfolio/assets/plugins/magnific-popup/jquery.magnific-popup.min.js?ver=1.6.4' id='go-portfolio-magnific-popup-script-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/go_portfolio/assets/plugins/jquery.isotope.min.js?ver=1.6.4' id='go-portfolio-isotope-script-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/go_portfolio/assets/plugins/jquery.carouFredSel-6.2.1-packed.js?ver=1.6.4' id='go-portfolio-caroufredsel-script-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/go_portfolio/assets/plugins/jquery.touchSwipe.min.js?ver=1.6.4' id='go-portfolio-touchswipe-script-js'></script>
+<script type='text/javascript' id='go-portfolio-script-js-extra'>
+/* <![CDATA[ */
+var gw_go_portfolio_settings = {"ajaxurl":"https:\/\/sportforlife.ca\/wp-admin\/admin-ajax.php","mobileTransition":"enabled"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/go_portfolio/assets/js/go_portfolio_scripts.js?ver=1.6.4' id='go-portfolio-script-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/popup-anything-on-click/assets/js/popupaoc-public.js?ver=2.5' id='popupaoc-public-js-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.2.2' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.2.2' id='wp-mediaelement-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/uploads/wpmss/wpmssab.min.js?ver=1637803590' id='wpmssab-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/mousewheel-smooth-scroll/js/SmoothScroll.min.js?ver=1.4.10' id='SmoothScroll-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/uploads/wpmss/wpmss.min.js?ver=1637803590' id='wpmss-js'></script>
+<script type='text/javascript' id='pojo-a11y-js-extra'>
+/* <![CDATA[ */
+var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"","enable_save":"","save_expiration":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0' id='pojo-a11y-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LelzwAmAAAAAMQu0gaGXf-0UeMQi7Nydt5_0WYU&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LelzwAmAAAAAMQu0gaGXf-0UeMQi7Nydt5_0WYU","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.6' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/jquery.bxslider.js?ver=6.2.2' id='bxslider-js'></script>
+<script type='text/javascript' src='https://sportforlife.ca/wp-content/uploads/dynamic_avia/avia-footer-scripts-76c641bc6d2633f39a1dd6cabe57580d---64920511add9f.js' id='avia-footer-scripts-js'></script>
+		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Skip to content</a>
+				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-left pojo-a11y-" role="navigation">
+			<div class="pojo-a11y-toolbar-toggle">
+				<a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" title="Accessibility Tools" role="button">
+					<span class="pojo-sr-only sr-only">Open toolbar</span>
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" width="1em">
+						<title>Accessibility Tools</title>
+						<path d="M50 .8c5.7 0 10.4 4.7 10.4 10.4S55.7 21.6 50 21.6s-10.4-4.7-10.4-10.4S44.3.8 50 .8zM92.2 32l-21.9 2.3c-2.6.3-4.6 2.5-4.6 5.2V94c0 2.9-2.3 5.2-5.2 5.2H60c-2.7 0-4.9-2.1-5.2-4.7l-2.2-24.7c-.1-1.5-1.4-2.5-2.8-2.4-1.3.1-2.2 1.1-2.4 2.4l-2.2 24.7c-.2 2.7-2.5 4.7-5.2 4.7h-.5c-2.9 0-5.2-2.3-5.2-5.2V39.4c0-2.7-2-4.9-4.6-5.2L7.8 32c-2.6-.3-4.6-2.5-4.6-5.2v-.5c0-2.6 2.1-4.7 4.7-4.7h.5c19.3 1.8 33.2 2.8 41.7 2.8s22.4-.9 41.7-2.8c2.6-.2 4.9 1.6 5.2 4.3v1c-.1 2.6-2.1 4.8-4.8 5.1z"/>					</svg>
+				</a>
+			</div>
+			<div class="pojo-a11y-toolbar-overlay">
+				<div class="pojo-a11y-toolbar-inner">
+					<p class="pojo-a11y-toolbar-title">Accessibility Tools</p>
+					
+					<ul class="pojo-a11y-toolbar-items pojo-a11y-tools">
+																			<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus" data-action="resize-plus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Increase Text</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-56v56c0 4.25-3.75 8-8 8h-16c-4.25 0-8-3.75-8-8v-56h-56c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h56v-56c0-4.25 3.75-8 8-8h16c4.25 0 8 3.75 8 8v56h56c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Increase Text</span>								</a>
+							</li>
+							
+							<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus" data-action="resize-minus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Decrease Text</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-144c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h144c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Decrease Text</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale" data-action="grayscale" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Grayscale</title><path fill="currentColor" d="M15.75 384h-15.75v-352h15.75v352zM31.5 383.75h-8v-351.75h8v351.75zM55 383.75h-7.75v-351.75h7.75v351.75zM94.25 383.75h-7.75v-351.75h7.75v351.75zM133.5 383.75h-15.5v-351.75h15.5v351.75zM165 383.75h-7.75v-351.75h7.75v351.75zM180.75 383.75h-7.75v-351.75h7.75v351.75zM196.5 383.75h-7.75v-351.75h7.75v351.75zM235.75 383.75h-15.75v-351.75h15.75v351.75zM275 383.75h-15.75v-351.75h15.75v351.75zM306.5 383.75h-15.75v-351.75h15.75v351.75zM338 383.75h-15.75v-351.75h15.75v351.75zM361.5 383.75h-15.75v-351.75h15.75v351.75zM408.75 383.75h-23.5v-351.75h23.5v351.75zM424.5 383.75h-8v-351.75h8v351.75zM448 384h-15.75v-352h15.75v352z"></path></svg></span><span class="pojo-a11y-toolbar-text">Grayscale</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast" data-action="high-contrast" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>High Contrast</title><path fill="currentColor" d="M192 360v-272c-75 0-136 61-136 136s61 136 136 136zM384 224c0 106-86 192-192 192s-192-86-192-192 86-192 192-192 192 86 192 192z"></path></svg></span><span class="pojo-a11y-toolbar-text">High Contrast</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast" data-action="negative-contrast" data-action-group="schema" tabindex="-1" role="button">
+
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Negative Contrast</title><path fill="currentColor" d="M416 240c-23.75-36.75-56.25-68.25-95.25-88.25 10 17 15.25 36.5 15.25 56.25 0 61.75-50.25 112-112 112s-112-50.25-112-112c0-19.75 5.25-39.25 15.25-56.25-39 20-71.5 51.5-95.25 88.25 42.75 66 111.75 112 192 112s149.25-46 192-112zM236 144c0-6.5-5.5-12-12-12-41.75 0-76 34.25-76 76 0 6.5 5.5 12 12 12s12-5.5 12-12c0-28.5 23.5-52 52-52 6.5 0 12-5.5 12-12zM448 240c0 6.25-2 12-5 17.25-46 75.75-130.25 126.75-219 126.75s-173-51.25-219-126.75c-3-5.25-5-11-5-17.25s2-12 5-17.25c46-75.5 130.25-126.75 219-126.75s173 51.25 219 126.75c3 5.25 5 11 5 17.25z"></path></svg></span><span class="pojo-a11y-toolbar-text">Negative Contrast</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background" data-action="light-background" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Light Background</title><path fill="currentColor" d="M184 144c0 4.25-3.75 8-8 8s-8-3.75-8-8c0-17.25-26.75-24-40-24-4.25 0-8-3.75-8-8s3.75-8 8-8c23.25 0 56 12.25 56 40zM224 144c0-50-50.75-80-96-80s-96 30-96 80c0 16 6.5 32.75 17 45 4.75 5.5 10.25 10.75 15.25 16.5 17.75 21.25 32.75 46.25 35.25 74.5h57c2.5-28.25 17.5-53.25 35.25-74.5 5-5.75 10.5-11 15.25-16.5 10.5-12.25 17-29 17-45zM256 144c0 25.75-8.5 48-25.75 67s-40 45.75-42 72.5c7.25 4.25 11.75 12.25 11.75 20.5 0 6-2.25 11.75-6.25 16 4 4.25 6.25 10 6.25 16 0 8.25-4.25 15.75-11.25 20.25 2 3.5 3.25 7.75 3.25 11.75 0 16.25-12.75 24-27.25 24-6.5 14.5-21 24-36.75 24s-30.25-9.5-36.75-24c-14.5 0-27.25-7.75-27.25-24 0-4 1.25-8.25 3.25-11.75-7-4.5-11.25-12-11.25-20.25 0-6 2.25-11.75 6.25-16-4-4.25-6.25-10-6.25-16 0-8.25 4.5-16.25 11.75-20.5-2-26.75-24.75-53.5-42-72.5s-25.75-41.25-25.75-67c0-68 64.75-112 128-112s128 44 128 112z"></path></svg></span><span class="pojo-a11y-toolbar-text">Light Background</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline" data-action="links-underline" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Links Underline</title><path fill="currentColor" d="M364 304c0-6.5-2.5-12.5-7-17l-52-52c-4.5-4.5-10.75-7-17-7-7.25 0-13 2.75-18 8 8.25 8.25 18 15.25 18 28 0 13.25-10.75 24-24 24-12.75 0-19.75-9.75-28-18-5.25 5-8.25 10.75-8.25 18.25 0 6.25 2.5 12.5 7 17l51.5 51.75c4.5 4.5 10.75 6.75 17 6.75s12.5-2.25 17-6.5l36.75-36.5c4.5-4.5 7-10.5 7-16.75zM188.25 127.75c0-6.25-2.5-12.5-7-17l-51.5-51.75c-4.5-4.5-10.75-7-17-7s-12.5 2.5-17 6.75l-36.75 36.5c-4.5 4.5-7 10.5-7 16.75 0 6.5 2.5 12.5 7 17l52 52c4.5 4.5 10.75 6.75 17 6.75 7.25 0 13-2.5 18-7.75-8.25-8.25-18-15.25-18-28 0-13.25 10.75-24 24-24 12.75 0 19.75 9.75 28 18 5.25-5 8.25-10.75 8.25-18.25zM412 304c0 19-7.75 37.5-21.25 50.75l-36.75 36.5c-13.5 13.5-31.75 20.75-50.75 20.75-19.25 0-37.5-7.5-51-21.25l-51.5-51.75c-13.5-13.5-20.75-31.75-20.75-50.75 0-19.75 8-38.5 22-52.25l-22-22c-13.75 14-32.25 22-52 22-19 0-37.5-7.5-51-21l-52-52c-13.75-13.75-21-31.75-21-51 0-19 7.75-37.5 21.25-50.75l36.75-36.5c13.5-13.5 31.75-20.75 50.75-20.75 19.25 0 37.5 7.5 51 21.25l51.5 51.75c13.5 13.5 20.75 31.75 20.75 50.75 0 19.75-8 38.5-22 52.25l22 22c13.75-14 32.25-22 52-22 19 0 37.5 7.5 51 21l52 52c13.75 13.75 21 31.75 21 51z"></path></svg></span><span class="pojo-a11y-toolbar-text">Links Underline</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font" data-action="readable-font" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Readable Font</title><path fill="currentColor" d="M181.25 139.75l-42.5 112.5c24.75 0.25 49.5 1 74.25 1 4.75 0 9.5-0.25 14.25-0.5-13-38-28.25-76.75-46-113zM0 416l0.5-19.75c23.5-7.25 49-2.25 59.5-29.25l59.25-154 70-181h32c1 1.75 2 3.5 2.75 5.25l51.25 120c18.75 44.25 36 89 55 133 11.25 26 20 52.75 32.5 78.25 1.75 4 5.25 11.5 8.75 14.25 8.25 6.5 31.25 8 43 12.5 0.75 4.75 1.5 9.5 1.5 14.25 0 2.25-0.25 4.25-0.25 6.5-31.75 0-63.5-4-95.25-4-32.75 0-65.5 2.75-98.25 3.75 0-6.5 0.25-13 1-19.5l32.75-7c6.75-1.5 20-3.25 20-12.5 0-9-32.25-83.25-36.25-93.5l-112.5-0.5c-6.5 14.5-31.75 80-31.75 89.5 0 19.25 36.75 20 51 22 0.25 4.75 0.25 9.5 0.25 14.5 0 2.25-0.25 4.5-0.5 6.75-29 0-58.25-5-87.25-5-3.5 0-8.5 1.5-12 2-15.75 2.75-31.25 3.5-47 3.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Readable Font</span>								</a>
+							</li>
+																		<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" tabindex="-1" role="button">
+								<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Reset</title><path fill="currentColor" d="M384 224c0 105.75-86.25 192-192 192-57.25 0-111.25-25.25-147.75-69.25-2.5-3.25-2.25-8 0.5-10.75l34.25-34.5c1.75-1.5 4-2.25 6.25-2.25 2.25 0.25 4.5 1.25 5.75 3 24.5 31.75 61.25 49.75 101 49.75 70.5 0 128-57.5 128-128s-57.5-128-128-128c-32.75 0-63.75 12.5-87 34.25l34.25 34.5c4.75 4.5 6 11.5 3.5 17.25-2.5 6-8.25 10-14.75 10h-112c-8.75 0-16-7.25-16-16v-112c0-6.5 4-12.25 10-14.75 5.75-2.5 12.75-1.25 17.25 3.5l32.5 32.25c35.25-33.25 83-53 132.25-53 105.75 0 192 86.25 192 192z"></path></svg></span>
+								<span class="pojo-a11y-toolbar-text">Reset</span>
+							</a>
+						</li>
+					</ul>
+									</div>
+			</div>
+		</nav>
+		</body>
+</html>
